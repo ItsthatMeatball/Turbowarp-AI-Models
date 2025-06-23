@@ -1,4 +1,4 @@
-# 🧠 TurboWarp AI Models by [Your Name]
+# 🧠 TurboWarp AI Models by Nigel-sal
 
 Welcome to my collection of custom AI models built for **TurboWarp**!  
 These models are made for anyone who wants to experiment with AI logic, memory systems, and text processing inside Scratch projects using the TurboWarp mod.
