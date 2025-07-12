@@ -55,7 +55,7 @@ While most projects here function as intended, there’s a chance some may have 
 
 ## 📫 Contact
 
-Got questions, ideas, or just wanna talk AI stuff? Message me on [Scratch](https://scratch.mit.edu/users/your-scratch-username/)!
+Got questions, ideas, or just wanna talk AI stuff? Message me on [Scratch](https://scratch.mit.edu/users/nigel-sal/)!
 
 ---
 
